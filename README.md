@@ -1,8 +1,10 @@
 *techinal stack :Tableau version 19.1* 
 
-*database  connection:excel file (can replaced  for different states)* 
+*data :excel file (can be replaced  for different states) and ward coordinates json* 
 
-*filters are provided for enfd users to change state or cities*
+
+
+
 
 ![analysis](https://github.com/InternityFoundation/Mavericks_2040/blob/master/Landing%20Page.png)
 
